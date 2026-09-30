@@ -23,4 +23,4 @@ This is a portfolio/demo project created to demonstrate my web development skill
 
 ## Live Demo
 
-[View Live Website] [https://glamornails.netlify.app/]
+[View Live Website] (https://thebrewke.netlify.app/)
