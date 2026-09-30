@@ -20,3 +20,7 @@ A responsive website concept created for a coffee/restaurant business.
 ## Project
 
 This is a portfolio/demo project created to demonstrate my web development skills.
+
+## Live Demo
+
+[View Live Website] [https://glamornails.netlify.app/]
